@@ -26,13 +26,11 @@ Step 7: Save and run the application.
 
 
 ## Program:
- ```
-/*
-Program to create and design an android application for draw basic graphical primitives.
-Developed by: Amrutha Rajsheker
-RegisterNumber:  212222110003
-*/
-```
+
+Program to create and design an android application for draw basic graphical primitives. </br>
+Developed by: Amrutha Rajsheker </br>
+RegisterNumber:  212222110003 </br>
+
 
 ## MainActivity.java:
 ```
@@ -75,6 +73,7 @@ public class MainActivity extends AppCompatActivity {
 }
 
 ```
+
 ## activity_main.xml:
 ```
 <?xml version="1.0" encoding="utf-8"?>
@@ -86,8 +85,8 @@ public class MainActivity extends AppCompatActivity {
         android:layout_height="match_parent"
         android:id="@+id/ImageView"/>
 </RelativeLayout>
-
 ```
+
 ## Output:
 
 ![Screenshot 2024-04-29 094315](https://github.com/SowmyaVisvanathan/EX_7_GRAPHICAL_GIT/assets/119475775/3e747f1d-8a67-411f-9d2e-f693a309b6ff)
